@@ -1,0 +1,17 @@
+{
+  "name": "3dcitydb-importer-exporter",
+  "version": "1.6.0",
+  "description": "Java based importer and exporter for the 3DCityDB",
+  "main": "3DCityDB-Importer-Exporter.sh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adius/3dcitydb-impexp"
+  },
+  "keywords": [
+    "3dcitydb"
+  ],
+  "bugs": {
+    "url": "https://github.com/adius/3dcitydb-impexp/issues"
+  },
+  "homepage": "https://github.com/adius/3dcitydb-impexp"
+}
